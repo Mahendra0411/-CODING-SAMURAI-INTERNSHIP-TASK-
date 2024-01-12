@@ -1,7 +1,7 @@
-#This is my first task of CODING SAMURAI INTERNSHIP.
-#Project Title: Web-based Calculator Project 
+# This is my first task of CODING SAMURAI INTERNSHIP.
+# Project Title: Web-based Calculator Project 
 
-#Features include: 
+# Features include: 
 
 1)Basic Arithmetic Operations: Implement the core functionality of a calculator, 
 including addition, subtraction, multiplication, and division.
